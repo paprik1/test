@@ -9,5 +9,7 @@ echo 'hello';
 
 // some more comments
 ?>
+
+<!-- -->
 </body>
 </html>
